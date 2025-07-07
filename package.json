@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chai": "^5.2.0",
+    "chai": "^4.3.7",
     "mocha": "^11.7.1",
     "mochawesome": "^7.1.3",
     "supertest": "^7.1.1"
@@ -25,6 +25,5 @@
     "url": "https://github.com/Wedney18/banco-api-tests/issues"
   },
   "homepage": "https://github.com/Wedney18/banco-api-tests#readme",
-  "devDependencies": {},
   "description": ""
 }
