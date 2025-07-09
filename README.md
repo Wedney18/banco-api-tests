@@ -1,5 +1,5 @@
-🧪 banco-api-tests
-🔍 Objetivo
+# 🧪 banco-api-tests
+# 🔍 Objetivo
 Este projeto realiza testes automatizados na API REST do [banco-api](https://github.com/juliodelimas/banco-api), validando suas funcionalidades e contribuindo a qualidade de suas operações.
 
 💻 Stack Tecnológica
