@@ -51,7 +51,7 @@ Chai
 
 Supertest
 
-mochawesome
+Mochawesome
 
 Consulte os links acima para aprofundar o uso, opções de configuração e melhores práticas.
 
