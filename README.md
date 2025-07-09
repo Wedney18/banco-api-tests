@@ -2,7 +2,7 @@
 # 🔍 Objetivo
 Este projeto realiza testes automatizados na API REST do [banco-api](https://github.com/juliodelimas/banco-api), validando suas funcionalidades e contribuindo a qualidade de suas operações.
 
-💻 Stack Tecnológica
+# 💻 Stack Tecnológica
 
 Linguagem: JavaScript (Node.js)
 Frameworks de testes: [Mocha](https://mochajs.org/)
