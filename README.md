@@ -15,7 +15,7 @@ Gerenciamento de variáveis de ambiente: [dotenv](https://github.com/motdotla/do
 banco-api-tests/
 ├── test/                         # Testes organizados por funcionalidades
 │   ├── login.test.js
-│   └── tranferencias.test.js
+│   └── transferencias.test.js
 ├── mochawesome-report/           # Diretório gerado automaticamente com o relatório HTML dos testes
 ├── .env                          # Arquivo para configuração da variável BASE_URL
 ├── .gitignore
