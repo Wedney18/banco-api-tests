@@ -36,7 +36,7 @@ BASE_URL deve apontar para o endpoint base da API banco-api (ajuste hostname e p
 
 Também é possível incluir outras variáveis caso seu projeto evolua, como tokens de autenticação ou parâmetros de timeout.
 
-🚀 Comandos principais
+# 🚀 Comandos principais
 Comando	Descrição
 npm install	Instala todas as dependências do projeto
 npm test	Executa todos os testes com relatório no console
@@ -44,7 +44,7 @@ npm run test:report	Executa testes e gera relatório HTML via mochawesome
 Relatórios
 Após npm run test:report, os arquivos estarão em mochawesome/mochawesome.html. Basta abrir no navegador para visualizar.
 
-📚 Documentação das dependências
+# 📚 Documentação das dependências
 Mocha
 
 Chai
@@ -55,7 +55,7 @@ mochawesome
 
 Consulte os links acima para aprofundar o uso, opções de configuração e melhores práticas.
 
-✅ Como contribuir
+# ✅ Como contribuir
 Faça um fork do repositório
 
 Crie uma branch: git checkout -b minha-feature
@@ -66,10 +66,10 @@ Envie para o seu fork: git push origin minha-feature
 
 Abra um Pull Request descrevendo as mudanças
 
-📄 Licença
+# 📄 Licença
 Este projeto está sob a MIT License. Veja o arquivo LICENSE para detalhes.
 
-🎯 Próximas melhorias sugeridas
+# 🎯 Próximas melhorias sugeridas
 Integração com CI/CD (GitHub Actions, Travis, etc.)
 
 Cobertura de testes automatizada (com nyc / istanbul)
