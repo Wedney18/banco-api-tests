@@ -11,7 +11,7 @@ Biblioteca de asserções: [Chai](https://www.chaijs.com/)
 Relatórios de testes: [Mochawesome](https://github.com/adamgruber/mochawesome)
 Gerenciamento de variáveis de ambiente: [dotenv](https://github.com/motdotla/dotenv)
 
-🗂️ Estrutura de diretórios
+# 🗂️ Estrutura de diretórios
 banco-api-tests/
 ├── test/                         # Testes organizados por funcionalidades
 │   ├── login.test.js
